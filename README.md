@@ -1,5 +1,10 @@
 # CBZ
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/fmartingr/go-cbz.svg)](https://pkg.go.dev/github.com/fmartingr/go-cbz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fmartingr/go-cbz)](https://goreportcard.com/report/github.com/fmartingr/go-cbz)
+[![codecov](https://codecov.io/gh/fmartingr/go-cbz/graph/badge.svg?token=AFCNOW5C2A)](https://codecov.io/gh/fmartingr/go-cbz)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Manage your CBZ files with Go.
 
 ## Features
