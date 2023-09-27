@@ -43,10 +43,10 @@ func main() {
 	comic.ComicInfo().Volume = 1
 
 	// Add some pages
-	if err := comic.AppendPage(fmt.Sprintf("testdata/page01.jpg", i)); err != nil {
+	if err := comic.AppendPage("testdata/page01.jpg"); err != nil {
 		log.Fatal(err)
 	}
-	if err := comic.AppendPage(fmt.Sprintf("testdata/page02.jpg", i)); err != nil {
+	if err := comic.AppendPage("testdata/page02.jpg"); err != nil {
 		log.Fatal(err)
 	}
 
